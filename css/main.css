@@ -11,8 +11,9 @@ body
 {
 
     display:flex;
-    position: fixed;
-    background-image: url(../image/image1.jpg);
+    position:fixed;
+
+    background-image: url(../image/image7.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-size: 100%;
